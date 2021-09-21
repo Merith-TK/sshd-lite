@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	sshd "github.com/jpillora/sshd-lite/server"
+	sshd "github.com/merith-tk/sshd-lite/server"
 )
 
 var version string = "0.0.0-src" //set via ldflags
@@ -38,7 +38,7 @@ var help = `
     * sshd-lite only supports remotes shells. tunnelling and command
     execution are not currently supported.
 
-  Read more: https://github.com/jpillora/sshd-lite
+  Read more: https://github.com/merith-tk/sshd-lite
 
 `
 

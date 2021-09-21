@@ -1,4 +1,4 @@
-module github.com/jpillora/sshd-lite
+module github.com/merith-tk/sshd-lite
 
 go 1.15
 

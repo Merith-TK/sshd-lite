@@ -6,14 +6,14 @@ A feature-light Secure Shell Daemon `sshd(8)` written in Go (Golang). A slightly
 
 **Binaries**
 
-See [the latest release](https://github.com/jpillora/sshd-lite/releases/latest)
+See [the latest release](https://github.com/merith-tk/sshd-lite/releases/latest)
 
 One-line-download and install `curl https://i.jpillora.com/sshd-lite! | sh`
 
 **Source**
 
 ``` sh
-$ go get -v github.com/jpillora/sshd-lite
+$ go get -v github.com/merith-tk/sshd-lite
 ```
 
 ### Features
@@ -88,7 +88,7 @@ exit status 1
     * sshd-lite only supports remotes shells. tunnelling and command
     execution are not currently supported.
 
-  Read more: https://github.com/jpillora/sshd-lite
+  Read more: https://github.com/merith-tk/sshd-lite
 ```
 <!--/tmpl-->
 
